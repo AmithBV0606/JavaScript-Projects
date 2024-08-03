@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    background-color: #212121;
+    color: #fff;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+button {
+    margin-left: 100px;
+    padding: 5px;
+    border-radius: 5px;
+    border-color: white;
+}
+
+input {
+    padding: 3px;
+    border-color: white;
+}
+
+.weight-guide {
+    text-align: center;
+}
